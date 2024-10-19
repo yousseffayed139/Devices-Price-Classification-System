@@ -57,7 +57,7 @@ This project implements a machine learning model to predict the price of devices
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/REPO_NAME.git
+   git clone https://github.com/yousseffayed139/Devices-Price-Classification-System.git
 
 2. Navigate to the Flask directory and install dependencies:
    ```bash
