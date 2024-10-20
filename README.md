@@ -93,7 +93,8 @@ To use the collection:
 1. Download the collection file.
 2. Open Postman and click on "Import".
 3. Select the downloaded JSON file.
-4. You can now use the requests in the collection to test the API.
+4. You can now see bunch of test cases.
+5. Also you can use the requests in the collection to test the API.
 
 ## Contributing 
 Contributions are welcome! Please feel free to submit a pull request or open an issue for suggestions.
